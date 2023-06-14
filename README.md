@@ -7,7 +7,7 @@ Plugin supports iOS 11-14. Tested properly with cordova 10, iOS 14.3 and android
 ## Installation
 
 ```
-cordova plugin add https://github.com/xmcdv/cordova-apple-pay-google-pay.git#master
+cordova plugin add https://github.com/xmcdv/cordova-plugin-apple-pay-google-pay.git#master
 ```
 
 For Android, register and fill all required forms at https://pay.google.com/business/console. Add following to
