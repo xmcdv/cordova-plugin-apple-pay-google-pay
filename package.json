@@ -9,10 +9,6 @@
       "android"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/xmcdv/cordova-apple-pay-google-pay"
-  },
   "keywords": [
     "ecosystem:cordova",
     "cordova-ios",
