@@ -1,9 +1,9 @@
 {
-  "name": "@xmcdv/cordova-plugin-apple-pay-google-pay",
+  "name": "cordova-plugin-apple-pay-google-pay",
   "version": "1.1.3",
   "description": "Cordova plugin for integrating Apple Pay and Google Pay in modern cordova apps",
   "cordova": {
-    "id": "@xmcdv/cordova-plugin-apple-pay-google-pay",
+    "id": "cordova-plugin-apple-pay-google-pay",
     "platforms": [
       "ios",
       "android"
